@@ -8,8 +8,3 @@
 
 这个leading的模式很值得学习。
 
-
-test
-test
-
-test
